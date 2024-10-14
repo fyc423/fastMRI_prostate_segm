@@ -1,1 +1,1 @@
-# fastMRI_prostate_segm
+# fastMRI prostate segmentation
